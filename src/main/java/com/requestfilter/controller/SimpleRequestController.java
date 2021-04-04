@@ -1,6 +1,6 @@
 package com.requestfilter.controller;
 
-import com.requestfilter.Models.SimpleRequest;
+import com.requestfilter.models.SimpleRequest;
 import com.requestfilter.dao.CustomerRepository;
 import com.requestfilter.entity.Customer;
 import org.springframework.beans.factory.annotation.Autowired;

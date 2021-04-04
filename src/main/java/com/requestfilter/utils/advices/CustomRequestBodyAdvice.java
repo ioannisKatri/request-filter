@@ -1,6 +1,6 @@
 package com.requestfilter.utils.advices;
 
-import com.requestfilter.Models.SimpleRequest;
+import com.requestfilter.models.SimpleRequest;
 import com.requestfilter.controller.SimpleRequestController;
 import org.springframework.core.MethodParameter;
 import org.springframework.http.HttpInputMessage;

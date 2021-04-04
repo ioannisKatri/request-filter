@@ -1,4 +1,4 @@
-package com.requestfilter.Models;
+package com.requestfilter.models;
 
 
 import com.fasterxml.jackson.annotation.JsonProperty;
